@@ -1,0 +1,26 @@
+                                                  HOTEL MANAGEMENT SYSTEM
+
+
+		These are the options avaiable for four person:
+ 		 _______________________________________________________________________________________ 
+                |                                                                                       |
+                |      1  >>  Two Double Bed                          4  >>  Double Bed room            |
+       		|             Separate Workstation                           Both with Double Beds      |
+		|             Double Washroom                                Double Attached Bathroom   |
+		|             Large TV                                       Separate Workstation       |
+		|             AC                                             AC                         |
+		|         6000 TK Per Day. 				  5000 TK Per Day.    	        |
+		|                                                                                       |
+		|      2  >>  Two Double Bed         		      5  >>  Double Bed room	        |
+		|             Large TV                                       Both with Double Beds      |
+		|             Workstation                                    Two Attached Bathroom      |
+		|             Double Bathroom                                Separate Workstation       |
+		|             AC                                             Large TV        	        |
+		|         4970 TK Per Day.                                   AC                         |
+		|          					             Entertainment Section	|
+		|      3 >>  Two Double Bed				 9999TK Per Day.		|
+		|            Non-AC    							                |
+		|     	     Double Bathroom								|
+		|	     Workstation								|
+		|	  3999 TK Per Day.	               						|
+		|_______________________________________________________________________________________|

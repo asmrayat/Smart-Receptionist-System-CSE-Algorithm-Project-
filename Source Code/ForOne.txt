@@ -1,0 +1,21 @@
+                                                  HOTEL MANAGEMENT SYSTEM
+
+
+		These are the options avaiable for one person:
+ 		 _______________________________________________________________________________________ 
+                |                                                                                       |
+                |      1  >>  Single Bed                                  3  >>  Double Bed             |
+       		|             Television                              		 Large TV               |
+		|             Bedside Workstation                              	 Separate Workstation   |
+		|             Bathroom                              		 Bathroom               |
+		|             AC                                                 AC                     |
+		|         2990 TK Per Day. 				     3999 TK Per Day.    	|
+		|                                                                                       |
+		|      2  >>  Single Bed                               	 4  >>  King Size Bed	        |
+		|             Television                                        Large TV                |
+		|             Bedside Workstation                               Separate Workstation    |
+		|             Bathroom                                       	Bathroom                |
+		|             AC                                                Attached Balcony        |
+		|          2090 TK Per Day.                                     AC                      |
+		|                       				     5999 TK Per Day.           |
+		|_______________________________________________________________________________________|

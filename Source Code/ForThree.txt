@@ -1,0 +1,26 @@
+                                                  HOTEL MANAGEMENT SYSTEM
+
+
+		These are the options avaiable for three person:
+ 		 _______________________________________________________________________________________ 
+                |                                                                                       |
+                |      1  >>  Three Single Bed                          4  >>  Double Bed room          |
+       		|             Large TV                              	       Large TV                 |
+		|             Workstation                              	       Separate Workstation   	|
+		|             Double Bathroom                                  Double Attached Bathroom |
+		|             AC                                               AC                       |
+		|         6000 TK Per Day. 				   5000 TK Per Day.    	        |
+		|                                                                                       |
+		|      2  >>  One Double Bed and One Single Bed         5  >>  Double Bed room	        |
+		|             Large TV                                         Both with Double Beds    |
+		|             Workstation                                      Two Attached Bathroom    |
+		|             Double Bathroom                                  Separate Workstation     |
+		|             AC                                               Large TV        	        |
+		|         4899 TK Per Day.                                     AC                       |
+		|          					           10,000TK Per Day.		|
+		|      3 >>  Two Double Bed								|
+		|            Double Bathroom    							|
+		|     	     Workstation								|
+		|	     Non-AC									|
+		|	  4000 TK Per Day.	               						|
+		|_______________________________________________________________________________________|

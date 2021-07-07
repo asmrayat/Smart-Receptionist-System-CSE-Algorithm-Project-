@@ -1,0 +1,29 @@
+                                                  HOTEL MANAGEMENT SYSTEM
+
+
+		As you are five or more than five people, we would suggest you to take a Grand Suit
+		or Villa. Some information are given below, feel free to chose:
+ 		 _______________________________________________________________________________________ 
+                |                                                                                       |
+                |      1  >>  Grand Suit Options:                                  	                |
+       		|                                             						|
+		|  A Grand Suit which is capable of holding 6 to 11 people on any occassion.	        |
+		|  It has large Dining Space and Fireplace aside. Has several bedrooms and    		|
+		|  attached bathroom with all of them.                                                  |
+		|  There is also two common bathrooms with the Dining Section. Has separate rooms       |
+		|  for both workstation and entertainment section.                 			|
+		|  Has a big movie room aside the entertainment section.				|
+		|  This will cost you 25,000TK Per Day. 					        |
+		|                                                   			  		|
+		|                                                 			  		|
+		|       2  >>  Villa Option:                                                     	|
+		|                                                    		             	        |
+		|  Villa is luxurious residential place. A villa can hold up to 6 t 11 people with much |
+		|  ease.   								   		|
+		|  It has magnificent views all around it. It is also duplex. Hence has large           |
+		|  bedrooms with suitable choices.   	     						|
+		|  This villa has a yard ahead of it where you can hang around. Like the Grans Suit, 	|
+		|  it also has all ita features and much more. It has large				|
+		|  baths, swiming pool, gym, automated massage parlour etc.				|
+		|  Hiring a villa will cost you 65,000TK Per Day.	 	                        |
+		|_______________________________________________________________________________________|

@@ -1,0 +1,102 @@
+                                                  HOSPITAL MANAGEMENT SYSTEM
+
+
+		These are the options avaiable for two person:
+ 		 ____________________________________________________________________________________________________
+                |      ---------------------------			      -------------------------              |
+		|      Medicine & Heart Specialist			      Neuro Medicine Specialist              |
+		|      ---------------------------                            -------------------------              |  
+                |      1 >> Dr. MD Khalilur Rahman (Pappu)                    7 >> Pro. Dr. Md. Motiur Rahman        |
+       		|           Fee-500	                              	           Fee-1000                          |
+		|      2 >> Prof. Dr. K. M. Akhtaruzzaman                     8 >> Dr. Md. Nazrul Islam              |
+		|           Fee-1000                           		           Fee-1200		             |
+		|      3 >> Dr. Shishir Basak                                                                        |
+		|           Fee-1000				        		        	             |
+		|      ----------------                                      ---------------------------             |
+		|      Heart Specialist                                       Psychopathology Specialist             |
+		|      ----------------					     ---------------------------             |
+		|      4 >> Prof. Dr. Md. Aminur Rahman Laskar		      9 >> Dr. Ahmed Riad Chowdhury          |
+		|           Fee-1200					           Fee-2000			     |  
+		|      5 >> PRO. Dr. Md. Shahabuddin                          10 >> Prof. Dr. Syed Alomgir Safwat    |
+		|           Fee-1000                                                Fee-1000		             |
+		|      6 >> Dr. Ajoy Kumar Dutta                                                 		     |
+		|           Fee-1200                                      				             |
+		|      ------------------------------------ 		      --------------------                   |
+		|      Kidney Disease & Medicine Specialist  		      Pediatric Specialist                   |						           |
+		|      ------------------------------------		      --------------------                   |
+		|      11 >> Dr. Alomgir Chowdhury			      13 >> Dr. Akhlak Ahmed                 |
+		|	     Fee-2000					            Fee-1200			     |
+		|      12 >> Dr. Nazmus Sakib				      14 >> Dr. Md. Muyazzem Hossain (Harun) |
+		|      	     Fee-1000					            Fee-1000 			     |
+		|	     						      15 >> Dr. Md. Ishtiyak Alam (Rasel)    |
+		|	                                                            Fee-1200			     |
+		|	------------------------			      ---------------------		     |	
+		|	Neuro Surgery Specialist  			      Gynecology Specialist		     |	       
+		|	------------------------			      ---------------------                  |
+		|	16 >> Dr. Mostafa Towfik Ahmed			      21 >> Dr. Kishoura Parveen             |
+		|	      Fee-1200					            Fee-2000   			     |
+		|	17 >> Dr. M. Khaled Mahmud   								     |
+		|	      Fee-1000           								     |
+		|	18 >> Dr. Md. Abdul Kadir								     |
+		|	      Fee-1000                                                                  	     |
+		|	19 >> Dr. Showkat Uddin Ahmed 								     |
+		|	      Fee-1200										     |
+		|	20 >> Dr. Syed Mahmud Hasan                                       			     |
+		|	      Fee-1000										     |
+		|												     | 
+		|____________________________________________________________________________________________________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+				
+
+ 
+
+
+

@@ -1,0 +1,21 @@
+                                                  HOSPITAL MANAGEMENT SYSTEM
+
+
+		These are the options avaiable for two person:
+ 		 _______________________________________________________________________________________ 
+                |                                                                                       |
+                |      1 >> Kidney function test                           2 >> Blood analysis          |
+       		|           Amount-1200 TK                              	Amount-2000             |
+		|      											|
+		|      3 >> Brain scanning                                 4 >> Ultrasound		|
+		|           Amount-5000						Amount-1000		|
+		|	           		                                                        | 
+		|      5 >> Thyroid function test			   6 >> Pregnancy test		|
+		|	    Amount-1300                              		Amount-500        	|
+		|      											|
+		|      7 >> Urine test					   8 >> Laparoscopy		|
+                |          Amount-800                                           Amount-900            	|
+		|											|
+		|_______________________________________________________________________________________|
+
+
